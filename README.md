@@ -2,7 +2,7 @@
 
 # __ih_datamadpt0923_project_m1__
 
-Ironhack Madrid - Data Analytics Part Time - Sep 2023 - Project Module 1
+Ironhack Madrid - Data Analytics Part Time - Ene 2024 - Project Module 1
 
 ## **Data:**
 
